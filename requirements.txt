@@ -2,3 +2,4 @@ Flask == 1.1.1
 numpy
 mesa == 0.8.7
 pandas 
+matplotlib
